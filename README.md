@@ -16,10 +16,3 @@ And analysis of sales product itself like geographical location of high demand, 
 
 # Conclusion:
 Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
-
-
-:sparkler: - Sparkler
-:dancer: - Dancer
-:tropical_drink: - Tropical Drink (for a festive touch)
-
-
